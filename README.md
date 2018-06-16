@@ -1,10 +1,10 @@
 # Starter Kit
 ![alt text](https://raw.github.com/iamdavid2/javaScript/master/logo.png)
 
-Description
+#escription
 
-The step-by-step project describes how to have starter Kit for developments
+The step-by-step project describes how to have a starter Kit for developers
 
-Read this in other languages: English, Spanish
+Read this in other languages:[English](http://github.com) , [Spanish](http://github.com) 
 
 
