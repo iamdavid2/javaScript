@@ -5,6 +5,6 @@
 
 The step-by-step project describes how to have a starter Kit for developers
 
-Read this in other languages:[English](http://github.com) , [Spanish](http://github.com) 
+Read this in other languages:[English](https://github.com/iamdavid2/javaScript) , [Spanish](https://github.com/iamdavid2/javaScript/blob/master/README.es.md) 
 
 
