@@ -1,0 +1,17 @@
+{
+    "numberOfFinalGradesAffected": 1,
+    "finalGradesDTO": [
+        {
+            "classroomId": 1275404,
+            "courseId": 1003730,
+            "studentIdentityId": 5947497,
+            "calculatedFinalGrade": 1.0,
+            "totalPointsEarned": 5,
+            "totalPointsPossible": 5,
+            "abbreviation": null,
+            "calculationMethod": "weights",
+            "timestamp": 1586284535633,
+            "schoolId": 5857
+        }
+    ]
+}
